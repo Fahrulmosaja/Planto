@@ -5,7 +5,7 @@
 1. Clone repository
 
 ```bash
-git clone https://github.com/Fahrulmosaja/Planto.git
+git clone https://github.com/Fahrulmosaja/setup-react-prettier-eslint-husky.git
 ```
 
 2. Install dependencies
