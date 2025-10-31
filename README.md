@@ -1,4 +1,4 @@
-# SETUP - REACT - TS - ESLINT - PRETTIER - HUSKY
+# Setup
 
 ## Installation
 
