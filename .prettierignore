@@ -1,0 +1,7 @@
+node_modules
+.env
+public
+dist
+
+# Ignore dependency locks
+package-lock.json
